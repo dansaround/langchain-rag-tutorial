@@ -1,0 +1,834 @@
+0:00
+- When I started my research in semiconductors,
+0:01
+I thought that because chips were everywhere,
+0:04
+chips were easy to make.
+0:05
+And because nuclear bombs
+0:06
+were only controlled by a handful of governments,
+0:08
+they were hard to make.
+0:09
+But what I realized is actually the exact opposite.
+0:12
+If you take nuclear weapons,
+0:14
+that technology has barely improved since the 1960s.
+0:17
+It's so easy to make nuclear bombs,
+0:19
+even the North Koreans can do it.
+0:21
+But chips are everywhere
+0:22
+because they're cheap and they're tiny.
+0:24
+And making things very inexpensive and very small
+0:28
+is extraordinarily difficult.
+0:30
+Today, there are just three companies capable of producing
+0:33
+cutting-edge processor chips,
+0:34
+the types of chips that go in phones or computers
+0:37
+or are used for AI.
+0:39
+For many of those devices they rely on chips that,
+0:42
+in some cases, can only be made by one company
+0:45
+in a single factory in Taiwan.
+0:49
+The key risk that hangs over not just the chip industry,
+0:51
+but really our entire economy
+0:53
+is that something goes wrong between China and Taiwan
+0:56
+in the Taiwan Straits,
+0:57
+such that we lose access to chips made in Taiwan.
+1:02
+My name is Chris Miller.
+1:03
+I'm a professor at the Fletcher School
+1:05
+and author of "Chip War:
+1:07
+The Fight for the World's Most Critical Technology."
+1:18
+Well, I first got interested in chips
+1:19
+when I realized you really couldn't understand
+1:21
+how the world works without them.
+1:23
+When we think about technology,
+1:24
+we think about social media, we think about search engines,
+1:27
+we think about apps on our phones,
+1:29
+but undergirding all of this are chips.
+1:33
+A chip is a piece of silicon,
+1:34
+often the size of your fingernail,
+1:36
+and in it is carved thousands or millions,
+1:39
+in some cases billions of tiny devices called transistors,
+1:43
+which flip circuits on or off, on and off.
+1:46
+And when they're on, they produce a one.
+1:47
+When they're off, they produce a zero,
+1:49
+and all of the ones and zeros,
+1:50
+undergirding computing, undergirding data storage,
+1:53
+all of your Instagram likes, all of your text messages,
+1:56
+these are all just long strings of ones and zeros,
+1:58
+which are created on the chip
+1:59
+by these circuits flipping on and off.
+2:03
+Before transistors, computers used vacuum tubes,
+2:06
+which were sort of light bulb-like devices
+2:08
+that would turn on and off, on and off,
+2:09
+to produce the ones and zeros.
+2:12
+They were cutting edge for their time,
+2:14
+but they had huge inefficiencies.
+2:16
+They wasted a lot of heat, for example,
+2:18
+they worked pretty slowly,
+2:19
+and they also, because they created light,
+2:21
+attracted moths.
+2:23
+And so computers had to be regularly debugged
+2:26
+in the early days of computing,
+2:27
+which meant removing moths
+2:28
+from the lights that they were attracted to.
+2:31
+In the middle of the 20th century,
+2:33
+William Shockley, John Bardeen, and Walter Brattain
+2:35
+invented the first transistor
+2:37
+while they were working at Bell Labs,
+2:39
+It was part of AT&T at the time.
+2:41
+- [Narrator] Invented at the laboratories,
+2:43
+the transistor brought Bell scientists,
+2:45
+one of the two Nobel prizes
+2:47
+they have won for discoveries in physics.
+2:50
+- [Chris] They were initially planning
+2:51
+to use these transistors as part of the telephone network.
+2:53
+- [Narrator] Though it was primarily developed
+2:55
+for the betterment of telephone communications,
+2:58
+the versatile transistor now appears
+3:00
+in a staggering variety of devices and equipment.
+3:04
+- [Chris] Individual transistors were connected via wires
+3:07
+in a way that was okay if you had a handful of transistors,
+3:09
+but if you had a thousand connected together,
+3:11
+you had a jungle of wires you had to manage.
+3:14
+The first chips were invented
+3:15
+by engineers working at Texas Instruments
+3:18
+and a company called Fairchild Semiconductor
+3:20
+in Silicon Valley.
+3:22
+The first engineers realized
+3:24
+that you could take multiple transistors
+3:26
+and make them on a single piece of semiconductor material.
+3:31
+And so that was the first chip,
+3:33
+a piece of material with multiple transistors
+3:35
+carved into it.
+3:36
+- [Narrator] This single silicon crystal will be trimmed,
+3:39
+then sliced and diced.
+3:42
+The objective: semiconductors.
+3:45
+Patterns are made by a photographic process
+3:47
+and then micro-machined by chemical etching
+3:50
+to produce nearly 1,700 transistors on each slice.
+3:55
+- [Chris] And so the jungle of connections
+3:57
+was replaced by a single block of material,
+3:59
+which was much more reliable
+4:01
+and also much more easy to shrink in its size.
+4:05
+At first, they were building chips
+4:06
+primarily for the US government,
+4:08
+for the space program for example,
+4:09
+and for weapons systems.
+4:10
+But they realized early on
+4:12
+you could take the exact same chips
+4:13
+that the government wanted to guide spacecraft
+4:16
+and use them for commercial applications
+4:18
+like computers or pocket calculators.
+4:20
+And that set the industry off
+4:22
+into its first phase of growth in the 1960s and '70s.
+4:25
+- [Narrator] All the calculator know-how
+4:27
+you'll probably ever need.
+4:29
+- [Chris] Over time a new set of companies emerged.
+4:31
+Intel, for example, was founded in 1969.
+4:34
+And it quickly focused on making chips
+4:37
+for personal computers,
+4:39
+which at the time was a very small market,
+4:40
+but they correctly bet that
+4:42
+soon everyone would have a personal computer.
+4:44
+And Intel, even today,
+4:46
+is the world's largest producer of chips that go inside PCs.
+4:51
+Gordon Moore was one of the two co-founders of Intel.
+4:54
+He's most famous today probably
+4:56
+for coining the term Moore's Law.
+4:58
+Moore's Law is not a law of nature.
+5:00
+It's not a law of physics.
+5:01
+It's really a law of economics.
+5:03
+Moore's Law predicts that the number of transistors per chip
+5:07
+and as a result of the computing power per chip will double
+5:09
+every couple of years.
+5:11
+And that's been empirically true since the 1960s.
+5:15
+If you're able to find a way to shrink,
+5:17
+shrink your transistors smaller,
+5:19
+you will be able to find a larger market as well.
+5:22
+And that has incentivized huge investments in shrinking,
+5:26
+in improving manufacturing processes,
+5:28
+in making chemicals more purified,
+5:30
+which means that the capabilities of chips
+5:32
+have gotten vastly better
+5:34
+and continued to get much, much better
+5:36
+at a faster rate than anything else.
+5:38
+So I like to think, for example,
+5:40
+of airplanes to illustrate the difference.
+5:42
+If airplanes doubled in speed every two years
+5:45
+from the 1960s up to the present,
+5:46
+we'd be flying faster literally than the speed of light.
+5:49
+But chips have done that.
+5:50
+Chips have increased in that capability
+5:52
+because the scale of the transistors has shrunk.
+5:56
+Chips today are measured in nanometers,
+5:59
+and so that makes them only slightly larger than atoms,
+6:02
+far smaller than a bacteria,
+6:03
+smaller than a mitochondria,
+6:05
+half the size, for the most cutting-edge transistors,
+6:07
+of a coronavirus.
+6:09
+There's basically nothing we manufacture at such tiny scale.
+6:15
+When you go inside one of these massive facilities
+6:17
+called fabs,
+6:19
+what you find is that there are huge machines
+6:21
+and not much else,
+6:23
+because humans are way too imprecise
+6:25
+for manufacturing at nanometer scale.
+6:28
+The machines that make chips can cost $350 million apiece.
+6:32
+And they cost so much because they require
+6:34
+some of the most precise components ever used,
+6:37
+like a mirror that's the flattest mirror
+6:39
+humans have ever made,
+6:40
+a laser that's the most powerful laser ever deployed
+6:43
+in a commercial device,
+6:44
+and a ball of tin that falls through a vacuum
+6:47
+and then is struck twice by that laser,
+6:49
+explodes into a plasma measuring 40 times the temperature
+6:53
+of the surface of the sun,
+6:54
+and this plasma emits light at just the right wavelength,
+6:57
+13.5 nanometers, to be bounced off the mirrors
+7:00
+in exactly the right geometry
+7:02
+and land on your chip
+7:03
+to carve the transistors into the silicon.
+7:07
+It's the most complex and expensive machine
+7:09
+that humans have ever made,
+7:11
+and it's required to make all of the most advanced chips.
+7:15
+And that has enabled the explosion of computing power,
+7:18
+both in terms of the computing capabilities
+7:21
+in high-powered data centers or in your phone,
+7:23
+but also the application of computing
+7:25
+to all sorts of devices.
+7:27
+Today, there's computing everywhere.
+7:28
+It's in your dishwasher, it's in your refrigerator,
+7:30
+it's in your coffee maker, it's in your car,
+7:32
+and it's possible to put computing everywhere
+7:34
+because today it's so cheap,
+7:35
+we can produce it almost for free.
+7:41
+The chip industry was a global industry
+7:43
+from really the earliest days.
+7:47
+Because chipmaking requires ultra purified materials
+7:50
+and hugely complex equipment,
+7:52
+everyone requires a set of partnerships
+7:55
+to give them the materials, and the intellectual property,
+7:57
+and the software, and the tools that they need
+8:00
+to produce advanced chips.
+8:03
+So in the US right now,
+8:04
+most of the key chip firms only design chips.
+8:08
+Most of the manufacturing of chips happens
+8:10
+in East Asia, in Taiwan, for example, or in Korea.
+8:15
+Many of the chemicals
+8:16
+that go into chipmaking come from Japan.
+8:19
+And the machines that are used to make chips
+8:21
+come from either Silicon Valley
+8:22
+where some of them are still made,
+8:24
+or the Netherlands, or Japan.
+8:27
+So the industry has globalized,
+8:29
+but it's also specialized in the process.
+8:31
+And so there's not a single region today
+8:33
+that can make cutting-edge chips on its own.
+8:35
+If you take for example,
+8:36
+the primary processor inside of your smartphone,
+8:39
+it was probably made in Taiwan,
+8:41
+but it was made in Taiwan using chipmaking tools
+8:44
+from the Netherlands, and from the United States,
+8:45
+and from Japan.
+8:46
+It was produced using chemicals from Japan.
+8:49
+And then often assembled and packaged in Malaysia
+8:52
+before ending up inside of your smartphone.
+8:54
+And that's typical.
+8:57
+During the pandemic,
+8:59
+the supply and demand dynamics from the chip industry
+9:02
+were out of whack.
+9:04
+A lot of people ordered new computers,
+9:06
+for example, to work from home,
+9:07
+and so PC production shot up in ways that weren't expected,
+9:10
+or people bought fewer cars
+9:12
+in the early days of the pandemic
+9:13
+and so car production declined.
+9:14
+And companies couldn't predict
+9:15
+what type of chip they would need.
+9:18
+The effect of that was
+9:19
+to create shortages of certain types of chips.
+9:22
+Car companies in particular
+9:23
+found they couldn't get the types of chips
+9:25
+that they rely on.
+9:27
+The thing about cars if you're missing just one chip,
+9:29
+your car often doesn't work.
+9:30
+And during the pandemic,
+9:31
+car companies found themselves often in that situation.
+9:34
+Just a a single chip,
+9:35
+often even the cheapest chips were causing them
+9:38
+to have to leave cars in the factory parking lot
+9:40
+while they waited for the right chip to arrive.
+9:44
+That created hundreds of billions of dollars of losses
+9:48
+for manufacturers like automakers.
+9:50
+And that matters
+9:51
+because the shortages we saw in 2021 and 2022 are tiny
+9:56
+in comparison to the shortages we would see
+9:58
+if something happened to a large-scale chipmaker
+10:01
+like those in Taiwan.
+10:05
+The biggest chipmaker in the world
+10:07
+is the Taiwan Semiconductor Manufacturing Company.
+10:10
+When it comes to advanced processor chips,
+10:12
+like the chips in your phone or the chips in your computer,
+10:15
+TSMC makes around 90% of them.
+10:18
+In 1987, there was an American engineer named Morris Chang.
+10:23
+The Taiwanese approached him and said,
+10:24
+would you like to build a chip factory in Taiwan?
+10:28
+And he said, "Yes."
+10:30
+At the time, most chips were manufactured and designed
+10:33
+by the same companies.
+10:34
+But he established TSMC in Taiwan
+10:37
+with the aim never of designing chips,
+10:39
+only of manufacturing.
+10:41
+That's exactly what TSMC has done
+10:43
+and it's enabled TSMC to win among its customers
+10:46
+some of the largest companies in the world.
+10:48
+Apple, Nvidia, Qualcomm, AMD,
+10:50
+they all rely on TSMC to produce its chips,
+10:53
+which means that TSMC
+10:54
+is the largest chipmaker in the world by far.
+10:56
+They've got an extraordinary market share
+10:58
+and are arguably the most important company in the world
+11:00
+because the chips that they produce,
+11:02
+we rely on for basically everything.
+11:04
+- [Reporter] China and Taiwan have been at odds
+11:07
+ever since Chiang Kai-shek
+11:09
+and what was left of the Nationalist Army
+11:12
+fled the mainland for the islands back in 1949.
+11:16
+- [Chris] Anything that disrupted ship production in Taiwan
+11:18
+would be catastrophic for the world economy.
+11:21
+Especially if China carries
+11:23
+through on the threats it regularly makes
+11:25
+to use force against Taiwan to take control of the island.
+11:29
+- [Reporter] China fired 11 ballistic missiles
+11:31
+right over the island
+11:33
+and encircled it with warships
+11:35
+to prove it can strangle Taiwan whenever it wants.
+11:39
+- Even a small move, a small conflict,
+11:42
+would be disastrous for the chip industry
+11:44
+because Taiwan needs to import energy,
+11:46
+it needs to import chemicals, materials, tools,
+11:49
+spare parts from Japan, from the United States, from Europe,
+11:53
+energy coming in from the Middle East.
+11:55
+And if any of this is disrupted,
+11:57
+chip production could break down.
+11:59
+And if chip production in Taiwan breaks down,
+12:00
+that matters for everyone,
+12:02
+because everyone uses Taiwanese-made chips.
+12:08
+Both China and the US see chips as really central
+12:11
+to the technology competition between them right now.
+12:15
+China's worried that
+12:16
+because it relies on importing chips
+12:19
+from Taiwan and from Korea, which are both US allies,
+12:22
+it's gonna be cut off in the future
+12:24
+from getting to the chips that it needs.
+12:26
+And right now, that's already happening to some degree.
+12:28
+The US is limiting the ability of AI firms like Nvidia
+12:31
+to sell their most cutting-edge chips to China.
+12:34
+And the aim of these regulations is
+12:36
+to give US firms an advantage,
+12:38
+to make sure that US companies are leaders in AI
+12:40
+and that the US gets to write the rules
+12:42
+of how AI will play out.
+12:45
+Today, China's the world's largest importer of chips.
+12:49
+They spend as much money each year importing chips
+12:51
+as they spend importing oil.
+12:53
+There's nothing that China's more reliant
+12:55
+on the outside world to purchase.
+12:58
+Right now, the most advanced Chinese firm, SMIC,
+13:02
+is about five years behind TSMC.
+13:04
+Which might not sound like a lot,
+13:06
+but that's 2 1/2 Moore's Laws behind TSMC,
+13:09
+which means that for the most-cutting edge applications,
+13:11
+you really take a performance hit
+13:13
+if you want to use a Chinese manufacturer
+13:15
+versus a Taiwanese one.
+13:17
+And that's the US goal
+13:18
+to kind of throw sand in the gears of China's AI ecosystem
+13:22
+and hope that the US can race ahead as a result.
+13:27
+The biggest change in the past couple of years
+13:29
+has been the explosion of investment in AI.
+13:32
+I think the release of ChatGPT in late 2022
+13:35
+encouraged all the big tech firms
+13:37
+to spend tens of billions of dollars
+13:39
+building vast AI infrastructure,
+13:41
+which means data centers
+13:42
+full of the most capable semiconductors.
+13:46
+One of the key trends in the history of AI is that
+13:48
+more advanced systems require
+13:50
+being trained on larger volumes of data.
+13:53
+If you wanna train a system on more data,
+13:54
+you need more computing power,
+13:55
+which means better chips to train it.
+13:58
+And so today,
+13:59
+companies like OpenAI or Anthropic are spending
+14:01
+millions and millions and soon billions of dollars
+14:03
+training their AI systems.
+14:05
+And most of that budget goes to buying chips,
+14:08
+buying ultra-advanced semiconductors
+14:09
+from companies like Nvidia.
+14:11
+One of the key challenges of AI is gonna be
+14:13
+to drive down the cost of deploying AI systems.
+14:17
+To make AI really widespread across the economy,
+14:20
+we need the cost of using it to be so cheap
+14:22
+we don't even think about it.
+14:24
+It's sort of like Google search today.
+14:26
+No one thinks what's the price of my Google search,
+14:28
+because it's approximately zero.
+14:30
+Google spends a bit of money on the data centers,
+14:32
+but it's so low, you don't have to think about it.
+14:34
+Today, AI is actually pretty expensive.
+14:36
+A single query to ChatGPT is an appreciable amount of money.
+14:40
+There are a lot of companies that are exploring
+14:41
+how do you do deployment more efficiently.
+14:46
+Nvidia's chips, which are at the center
+14:48
+of the AI ecosystem right now,
+14:51
+are pretty general purpose in their capabilities.
+14:53
+They can train many different types of models
+14:55
+and are useful both for training and also for deployment.
+14:59
+But if you design a chip for a specific type of model
+15:03
+or a specific type of deployment,
+15:05
+you can make it perfectly optimized for that use case.
+15:08
+And so a lot of startups right now
+15:09
+are looking at individual workloads
+15:12
+or individual deployment opportunities and saying,
+15:14
+we're gonna design a chip
+15:15
+that's perfectly tweaked for that use case.
+15:18
+This is startups tackling this industry,
+15:20
+but it's also big tech companies.
+15:21
+Facebook, Microsoft, Google,
+15:23
+they're all designing their own in-house chips as well,
+15:26
+because they know the specific workloads
+15:28
+that are inside their data centers
+15:29
+and they've realized
+15:31
+if they design chips specifically around those workloads,
+15:33
+they can operate more efficiently in many cases
+15:36
+than a general purpose AI chip like Nvidia's can do.
+15:39
+Which I think is gonna be really important
+15:40
+in making AI cheap enough and therefore prolific enough
+15:44
+to make a major impact on the economy.
+15:47
+When I look at the surge of investment
+15:48
+in AI chips right now,
+15:50
+I see no reason to doubt that Moore's Law
+15:52
+won't continue for a very long time.
+15:54
+That means more advanced chips,
+15:56
+which means more computing power
+15:58
+that we can apply to all sorts of uses,
+16:00
+AI and all sorts of devices.
+16:02
+And that means we'll be using even more semiconductors
+16:04
+because the trend has been that
+16:06
+as chips get better, they get cheaper,
+16:09
+and we put them in more and more types of uses.
+16:13
+Today, if your car has a thousand chips,
+16:15
+I wouldn't be surprised if it has 10X that number
+16:18
+in a decade.
+16:20
+And that basic trend is true of everything we rely on.
