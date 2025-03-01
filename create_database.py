@@ -20,7 +20,6 @@ load_dotenv()
 # Change environment variable name from "OPENAI_API_KEY" to the name given in 
 # your .env file.
 openai.api_key = os.environ['OPENAI_API_KEY']
-print(openai.api_key)
 
 CHROMA_PATH = "chroma"
 DATA_PATH = "data/"
@@ -81,7 +80,7 @@ def save_to_chroma(chunks: list[Document]):
         shutil.rmtree(CHROMA_PATH)
 
     db = Chroma.from_documents(
-        chunks, OpenAIEmbeddings(), persist_directory=CHROMA_PATH
+        chunks, OpenAIEmbeddings(openai_api_key=os.environ["OPENAI_API_KEY"]), persist_directory=CHROMA_PATH
     )
 
 if __name__ == "__main__":

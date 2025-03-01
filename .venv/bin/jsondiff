@@ -1,4 +1,4 @@
-#!/mnt/c/Users/USR003/Downloads/langchain-rag-tutorial-main/langchain-rag-tutorial-main/.venv/bin/python3
+#!/home/dandadan/langchain-rag-tutorial-main/.venv/bin/python3
 # -*- coding: utf-8 -*-
 
 from __future__ import print_function

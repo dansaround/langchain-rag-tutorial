@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /mnt/c/Users/USR003/Downloads/langchain-rag-tutorial-main/langchain-rag-tutorial-main/.venv
+set -gx VIRTUAL_ENV /home/dandadan/langchain-rag-tutorial-main/.venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
